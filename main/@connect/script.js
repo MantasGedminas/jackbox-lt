@@ -24411,8 +24411,8 @@ ${t}`
             PASSWORD_REQUIRED_BODY: "Please enter the password or join as an audience member",
             PASSWORD_JOIN_AS_PLAYER: "Join as Player",
             PASSWORD_JOIN_AS_AUDIENCE: "Join Audience",
-            ROOM_CODE: "ROOM CODE",
-            ROOM_CODE_PLACEHOLDER: "ENTER 4-LETTER CODE"
+            ROOM_CODE: "KAMBARIO KODAS",
+            ROOM_CODE_PLACEHOLDER: "ĮVESKITE 4-RAIDŽIŲ KODĄ"
         },
         Eee = "Link to Jackbox Games Homepage",
         _ee = {
