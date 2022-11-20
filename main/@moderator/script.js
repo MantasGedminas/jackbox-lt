@@ -13722,8 +13722,8 @@ ${r.message}`,
             FILTER_NAME: "This game has profanity filters enabled. Please pick a different name."
         },
         c4 = {
-            NAME: "NAME",
-            NAME_PLACEHOLDER: "ENTER YOUR NAME",
+            NAME: "VARDAS",
+            NAME_PLACEHOLDER: "ĮVESKITE SAVO VARDĄ",
             PASSWORD_PLACEHOLDER: "ENTER 5-DIGIT PASSWORD",
             PASSWORD_REQUIRED_TITLE: "Password required",
             PASSWORD_REQUIRED_BODY: "Please enter the password or join as an audience member",

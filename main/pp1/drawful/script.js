@@ -16905,7 +16905,7 @@ const lc = Et.View.extend({
                 button_changename: "Change Name",
                 button_sameplayers: "Same Players",
                 button_newplayers: "New Players",
-                prompt_entername: "Enter your name",
+                prompt_entername: "Įveskite savo vardą",
                 prompt_choosecharacter: "Select your character",
                 button_censorOptions: "Censor Options",
                 censor_prompt: ""

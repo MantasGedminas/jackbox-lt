@@ -13123,7 +13123,7 @@ ${n.message}`,
             EDIT: "Edit",
             OK: "OK",
             NO: "No",
-            PLAY: "Play",
+            PLAY: "ŽAISTI",
             PUBLISH: "Publish",
             REMOVE: "Remove",
             RESET: "Reset",
@@ -24404,8 +24404,8 @@ ${t}`
             FILTER_NAME: "This game has profanity filters enabled. Please pick a different name."
         },
         vee = {
-            NAME: "NAME",
-            NAME_PLACEHOLDER: "ENTER YOUR NAME",
+            NAME: "VARDAS",
+            NAME_PLACEHOLDER: "ĮVESKITE SAVO VARDĄ",
             PASSWORD_PLACEHOLDER: "ENTER 5-DIGIT PASSWORD",
             PASSWORD_REQUIRED_TITLE: "Password required",
             PASSWORD_REQUIRED_BODY: "Please enter the password or join as an audience member",
@@ -24469,7 +24469,7 @@ from your past games list.`,
         Aee = {
             CAMERA: "[b]HEADS UP:[/b] We\u2019re not detecting a camera, but you can still play the game without a photo. If this seems wrong, try joining with a different browser.",
             STYLE: "[b]HEADS UP:[/b] Your browser seems a bit outdated, and will have some issues displaying this game.",
-            TOS: "By clicking {submit}, you agree to our [tos]Terms of Service[/tos]"
+            TOS: "Spausdami {submit}, jūs sutinkate su [tos]naudojimosi sąlygomis[/tos]"
         },
         Iee = {
             BRANCH: gee,
